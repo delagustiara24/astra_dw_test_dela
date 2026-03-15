@@ -1,0 +1,101 @@
+id,customer_id,address,city,province,created_at
+1,1,"Jl. Kutisari Selatan No. 475 Kotamobagu, Nusa Tenggara Timur 76836",Singkawang,Nusa Tenggara Barat,2026-03-06 16:38:53
+2,2,"Jl. Sukabumi No. 005 Sabang, SS 42012",Manado,Aceh,2026-01-09 10:29:11
+3,3,"Gang Gardujati No. 32 Palopo, RI 99573",Banjarbaru,Aceh,2026-02-02 19:46:54
+4,4,"Gg. M.T Haryono No. 9 Ternate, KB 87190",Denpasar,Kalimantan Utara,2026-02-01 14:46:15
+5,5,"Gang Jakarta No. 01 Jayapura, Nusa Tenggara Barat 47659",Depok,Nusa Tenggara Barat,2026-01-09 02:25:34
+6,6,"Gang Rajawali Barat No. 04 Pekalongan, Sumatera Barat 93892",Batu,Sulawesi Barat,2026-01-05 01:29:27
+7,7,"Jl. Ciumbuleuit No. 312 Parepare, BE 28805",Surakarta,Papua,2026-01-10 23:42:03
+8,8,"Jl. KH Amin Jasuta No. 8 Palangkaraya, Sulawesi Selatan 40939",Bandung,Sulawesi Utara,2026-03-11 20:57:50
+9,9,"Gang Rajiman No. 777 Bau-Bau, SU 74155",Padangpanjang,Kalimantan Barat,2026-01-15 10:28:55
+10,10,"Gg. Suryakencana No. 654 Kupang, KS 60464",Kupang,Lampung,2026-01-16 03:38:43
+11,11,"Gang Rumah Sakit No. 29 Tarakan, LA 58754",Semarang,Nusa Tenggara Timur,2026-02-28 04:52:53
+12,12,"Jalan Antapani Lama No. 702 Dumai, BE 44908",Palopo,Sumatera Barat,2026-01-07 15:28:10
+13,13,"Gang H.J Maemunah No. 194 Surakarta, LA 50554",Depok,Maluku,2026-02-24 00:37:36
+14,14,"Jl. Sukajadi No. 6 Pagaralam, Gorontalo 36504",Padang,Nusa Tenggara Barat,2026-01-04 15:21:09
+15,15,"Jalan Ahmad Yani No. 974 Palopo, SB 62160",Surakarta,Sulawesi Tenggara,2026-01-28 19:08:44
+16,16,"Jalan Gardujati No. 00 Cimahi, NB 51714",Batu,Nusa Tenggara Timur,2026-02-10 23:09:19
+17,17,"Jalan Ir. H. Djuanda No. 611 Kota Administrasi Jakarta Timur, Kalimantan Timur 07072",Batu,Bengkulu,2026-01-24 00:48:06
+18,18,"Jl. Ronggowarsito No. 71 Ambon, Aceh 15159",Kota Administrasi Jakarta Barat,Jawa Barat,2026-01-21 15:09:25
+19,19,"Jalan Dr. Djunjunan No. 740 Kota Administrasi Jakarta Selatan, BB 24040",Tarakan,DKI Jakarta,2026-03-05 12:09:21
+20,20,"Jalan Stasiun Wonokromo No. 9 Prabumulih, Sumatera Utara 84618",Banjarmasin,Aceh,2026-01-06 08:01:48
+21,21,"Gg. Stasiun Wonokromo No. 022 Palembang, SB 38840",Padang Sidempuan,Nusa Tenggara Barat,2026-01-16 18:24:34
+22,22,"Gang Rajawali Timur No. 654 Metro, Lampung 14320",Parepare,Lampung,2026-02-17 00:00:58
+23,23,"Gg. Ir. H. Djuanda No. 77 Tasikmalaya, KS 61113",Ambon,Kalimantan Utara,2026-02-28 12:40:22
+24,24,"Gang Cihampelas No. 800 Singkawang, KU 40540",Padang Sidempuan,Gorontalo,2026-01-10 12:33:55
+25,25,"Gg. Dipatiukur No. 91 Gorontalo, JA 46836",Sukabumi,Aceh,2026-02-03 06:25:18
+26,26,"Gang Cempaka No. 038 Pekanbaru, SN 52868",Surakarta,Kepulauan Bangka Belitung,2026-01-22 18:25:13
+27,27,"Gg. Sukabumi No. 05 Mojokerto, SU 88730",Kota Administrasi Jakarta Utara,Kalimantan Tengah,2026-01-05 23:55:29
+28,28,"Jalan Antapani Lama No. 791 Pasuruan, JB 67200",Kendari,Jawa Barat,2026-01-15 07:16:59
+29,29,"Gg. S. Parman No. 75 Blitar, Kepulauan Bangka Belitung 13476",Tanjungpinang,Sulawesi Barat,2026-02-13 20:23:02
+30,30,"Jalan Cikapayang No. 7 Sibolga, Gorontalo 39537",Bengkulu,Kalimantan Utara,2026-01-17 11:55:53
+31,31,"Jalan Dr. Djunjunan No. 99 Tual, JB 54438",Padangpanjang,Papua Barat,2026-02-21 16:04:23
+32,32,"Gg. W.R. Supratman No. 20 Ternate, Sumatera Selatan 60800",Dumai,Sumatera Barat,2026-02-27 23:40:15
+33,33,"Gang Ir. H. Djuanda No. 5 Solok, Jawa Tengah 57586",Tanjungbalai,Jawa Timur,2026-02-09 21:44:30
+34,34,"Jl. Soekarno Hatta No. 20 Manado, Kepulauan Bangka Belitung 12040",Kota Administrasi Jakarta Utara,Kepulauan Bangka Belitung,2026-02-09 04:25:10
+35,35,"Gang Sadang Serang No. 037 Tangerang Selatan, RI 96518",Lubuklinggau,Lampung,2026-02-15 16:33:13
+36,36,"Jalan Otto Iskandardinata No. 77 Manado, Bengkulu 09344",Tebingtinggi,Bali,2026-02-25 00:42:46
+37,37,"Gang PHH. Mustofa No. 4 Pagaralam, Bali 70508",Samarinda,Sumatera Selatan,2026-03-07 07:08:08
+38,38,"Jl. Stasiun Wonokromo No. 4 Sukabumi, Papua 05306",Surabaya,Jawa Timur,2026-03-14 14:54:44
+39,39,"Jl. Yos Sudarso No. 3 Batu, PA 26800",Sorong,Gorontalo,2026-02-05 11:03:51
+40,40,"Jl. PHH. Mustofa No. 98 Bontang, Sumatera Barat 99385",Manado,Nusa Tenggara Barat,2026-01-12 00:36:04
+41,41,"Jl. Merdeka No. 30 Padang, LA 35278",Tual,Kepulauan Riau,2026-03-07 03:06:18
+42,42,"Gang Cihampelas No. 089 Jayapura, DKI Jakarta 10029",Sungai Penuh,Nusa Tenggara Barat,2026-02-03 13:03:34
+43,43,"Jalan Ciwastra No. 878 Padang Sidempuan, Sulawesi Tenggara 38997",Kendari,Kepulauan Bangka Belitung,2026-02-08 02:48:00
+44,44,"Gang Sentot Alibasa No. 212 Banjarmasin, DI Yogyakarta 66786",Mataram,Jambi,2026-01-27 05:09:41
+45,45,"Jalan Cikapayang No. 59 Madiun, Maluku 23223",Pontianak,Jambi,2026-02-09 05:34:50
+46,46,"Jalan HOS. Cokroaminoto No. 477 Tual, SR 67613",Samarinda,Nusa Tenggara Timur,2026-02-03 01:45:47
+47,47,"Jalan Merdeka No. 3 Tasikmalaya, Sumatera Barat 70328",Palembang,Nusa Tenggara Barat,2026-03-14 05:54:12
+48,48,"Jalan Rajawali Barat No. 4 Samarinda, Sulawesi Tengah 18279",Medan,Lampung,2026-03-08 19:10:22
+49,49,"Jalan Cihampelas No. 59 Makassar, SU 82740",Tanjungpinang,Jambi,2026-02-17 14:02:12
+50,50,"Gg. Jakarta No. 40 Batu, Jawa Timur 46026",Depok,Nusa Tenggara Barat,2026-02-22 06:47:29
+51,51,"Gg. Kapten Muslihat No. 036 Cilegon, Kalimantan Utara 29531",Kota Administrasi Jakarta Barat,DKI Jakarta,2026-01-01 05:22:14
+52,52,"Gg. Ahmad Yani No. 154 Tanjungbalai, Kalimantan Timur 74908",Singkawang,Maluku Utara,2026-01-03 02:14:11
+53,53,"Gg. Dr. Djunjunan No. 859 Sawahlunto, PB 05725",Cimahi,Kalimantan Utara,2026-02-22 03:03:34
+54,54,"Jl. Antapani Lama No. 33 Tangerang, Maluku Utara 18498",Bogor,Sulawesi Selatan,2026-01-02 10:18:00
+55,55,"Gang KH Amin Jasuta No. 9 Bau-Bau, Bengkulu 15142",Bima,Kalimantan Timur,2026-01-31 03:35:26
+56,56,"Jalan Sukajadi No. 89 Bau-Bau, Sulawesi Selatan 71037",Bau-Bau,Kepulauan Bangka Belitung,2026-01-25 19:39:23
+57,57,"Jalan Suryakencana No. 443 Pekalongan, PA 23975",Cirebon,Sulawesi Tengah,2026-03-11 13:11:46
+58,58,"Gang Peta No. 267 Tegal, Sulawesi Barat 49206",Padang,Sulawesi Utara,2026-03-01 11:06:08
+59,59,"Jalan M.H Thamrin No. 07 Bandung, Kalimantan Selatan 09377",Banda Aceh,Kalimantan Tengah,2026-02-05 02:24:42
+60,60,"Gang Ciumbuleuit No. 8 Sorong, PB 44848",Serang,Kalimantan Tengah,2026-02-22 23:20:03
+61,61,"Gang Abdul Muis No. 726 Sorong, Aceh 59232",Pangkalpinang,Kalimantan Selatan,2026-02-25 08:13:27
+62,62,"Jalan Abdul Muis No. 9 Dumai, KB 15664",Sukabumi,Kalimantan Selatan,2026-02-08 20:04:39
+63,63,"Jalan Gedebage Selatan No. 807 Ternate, BE 16354",Solok,Sumatera Utara,2026-01-12 22:40:28
+64,64,"Jalan Cikutra Timur No. 036 Kupang, Kalimantan Timur 30500",Parepare,Kalimantan Selatan,2026-01-24 14:25:43
+65,65,"Jalan Pasirkoja No. 86 Sawahlunto, Maluku Utara 21343",Pekalongan,Papua Barat,2026-01-09 01:52:52
+66,66,"Gg. Joyoboyo No. 75 Balikpapan, Kalimantan Selatan 26862",Padang Sidempuan,Jambi,2026-01-22 16:22:41
+67,67,"Gang Waringin No. 7 Malang, Kalimantan Utara 34596",Bandar Lampung,Nusa Tenggara Timur,2026-01-17 15:18:37
+68,68,"Jalan Antapani Lama No. 28 Parepare, JI 30159",Jambi,Jawa Tengah,2026-01-12 12:11:38
+69,69,"Gang Wonoayu No. 455 Padang, YO 95220",Lhokseumawe,Sulawesi Tenggara,2026-01-24 16:55:35
+70,70,"Gg. Soekarno Hatta No. 72 Tebingtinggi, Kalimantan Barat 01053",Bau-Bau,Sulawesi Barat,2026-03-07 19:44:30
+71,71,"Gg. Cihampelas No. 431 Yogyakarta, NT 89826",Meulaboh,Gorontalo,2026-02-19 15:53:24
+72,72,"Jl. W.R. Supratman No. 289 Pasuruan, KI 36178",Serang,Lampung,2026-02-23 07:31:44
+73,73,"Gang Ir. H. Djuanda No. 44 Batam, Banten 63237",Singkawang,Kalimantan Selatan,2026-01-28 15:19:47
+74,74,"Gg. Sukabumi No. 400 Solok, Riau 96528",Manado,Riau,2026-03-01 12:33:44
+75,75,"Jl. Cempaka No. 915 Parepare, Papua Barat 76089",Medan,Jawa Tengah,2026-01-09 19:51:06
+76,76,"Gang Jamika No. 76 Tomohon, JB 86632",Tanjungpinang,Aceh,2026-01-29 02:18:46
+77,77,"Jalan Gedebage Selatan No. 02 Malang, Papua 21557",Pagaralam,Sulawesi Selatan,2026-02-01 19:21:24
+78,78,"Jalan Dr. Djunjunan No. 140 Kotamobagu, SU 37554",Bontang,Kepulauan Bangka Belitung,2026-02-20 01:14:16
+79,79,"Gg. Tubagus Ismail No. 6 Lhokseumawe, SB 33667",Tarakan,Kalimantan Barat,2026-02-24 07:28:17
+80,80,"Gg. Pasirkoja No. 52 Jambi, Sulawesi Tenggara 83345",Sungai Penuh,DI Yogyakarta,2026-01-04 22:41:38
+81,81,"Jalan S. Parman No. 41 Malang, Kalimantan Selatan 20631",Tomohon,Sumatera Selatan,2026-02-04 23:40:28
+82,82,"Gg. Gardujati No. 4 Jambi, Kepulauan Bangka Belitung 93768",Surakarta,Nusa Tenggara Timur,2026-02-10 23:40:09
+83,83,"Jl. Moch. Ramdan No. 89 Banjarmasin, Bengkulu 71500",Kota Administrasi Jakarta Timur,Kalimantan Utara,2026-02-11 02:46:21
+84,84,"Gang Otto Iskandardinata No. 25 Lhokseumawe, SS 81831",Kota Administrasi Jakarta Selatan,Jawa Tengah,2026-02-19 02:39:10
+85,85,"Jl. Pasteur No. 8 Balikpapan, JK 34689",Pariaman,Jawa Timur,2026-03-04 13:39:50
+86,86,"Jalan KH Amin Jasuta No. 8 Pontianak, Kalimantan Tengah 88409",Pagaralam,Sumatera Barat,2026-01-16 20:42:09
+87,87,"Jl. Kutisari Selatan No. 364 Metro, KR 35910",Kota Administrasi Jakarta Selatan,Kepulauan Bangka Belitung,2026-02-14 01:32:59
+88,88,"Gang S. Parman No. 01 Balikpapan, Sulawesi Tenggara 48241",Bandar Lampung,Sulawesi Tengah,2026-03-01 07:58:36
+89,89,"Jl. Dipenogoro No. 3 Mojokerto, JK 98806",Lubuklinggau,Sulawesi Utara,2026-02-07 21:39:00
+90,90,"Jl. Monginsidi No. 6 Bontang, BE 18269",Parepare,Kalimantan Tengah,2026-02-28 20:25:24
+91,91,"Gang Moch. Ramdan No. 805 Ternate, SR 69352",Binjai,Bengkulu,2026-01-27 08:54:29
+92,92,"Gang Cempaka No. 90 Banjarmasin, YO 93869",Kota Administrasi Jakarta Pusat,Jawa Tengah,2026-03-02 14:58:35
+93,93,"Jalan Kendalsari No. 6 Tanjungbalai, KU 20929",Kota Administrasi Jakarta Timur,Sulawesi Selatan,2026-03-13 01:50:35
+94,94,"Jl. Bangka Raya No. 16 Serang, Aceh 29394",Pasuruan,Sumatera Selatan,2026-02-27 11:50:29
+95,95,"Jalan Jend. A. Yani No. 4 Tanjungpinang, Sumatera Barat 88699",Pekanbaru,Nusa Tenggara Barat,2026-01-18 08:37:06
+96,96,"Jl. Sentot Alibasa No. 4 Subulussalam, SN 00902",Serang,Sumatera Barat,2026-01-18 14:54:08
+97,97,"Jl. Wonoayu No. 046 Solok, PA 77272",Tarakan,Papua,2026-01-05 02:07:59
+98,98,"Jl. Setiabudhi No. 057 Bandung, Sulawesi Utara 99821",Tangerang,Jambi,2026-01-07 09:28:17
+99,99,"Jalan Cempaka No. 88 Kupang, PA 98997",Batam,Jawa Timur,2026-01-03 21:54:55
+100,100,"Gang Jakarta No. 4 Semarang, ST 39229",Probolinggo,Bali,2026-03-05 08:22:02

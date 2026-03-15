@@ -1,0 +1,29 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8
+    container_name: mysql_dw
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: maju_jaya_dw
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+
+  etl:
+    build: .
+    container_name: etl_pipeline
+    depends_on:
+      - mysql
+    volumes:
+      - ./data:/data
+      - ./scripts:/scripts
+    command: >
+      sh -c "
+      sleep 10 &&
+      python /scripts/ingest_csv.py &&
+      python /scripts/cleaning.py &&
+      python /scripts/datamart.py
+      "
